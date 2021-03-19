@@ -1,5 +1,3 @@
-from os import system,name
-from time import sleep
 while (True):
   n = int(input("\n\nHow many numbers from the \nFibonacci's sequence do you want to see?:"))
   t1 = 0
